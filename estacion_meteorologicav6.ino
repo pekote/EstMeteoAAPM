@@ -28,18 +28,8 @@
 
 // Configura tus credenciales de red WiFi
 
-//const char* ssid = "m9jgv";
-//const char* password = "pekote05";
-const char* ssid = "PVCasa";
-const char* password = "pekote05";
-//const char* ssid = "OCTOPUS";
-//const char* password = "patagonico";
-//const char* ssid = "APPM-WiFI";
-//const char* password = "AlmiranteStorni";
-//const char* ssid = "ClubAeromodelismo";
-//const char* password = "vuelaalto";
-
-
+const char* ssid = "Casa";
+const char* password = "05";
 
 // Instancia de cliente Wi-Fi
 WiFiClient client;
